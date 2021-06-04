@@ -1,1 +1,1 @@
-__git project__
+__git first project__
